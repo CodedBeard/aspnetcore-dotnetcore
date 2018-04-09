@@ -1,6 +1,6 @@
 # escape=`
 
-FROM coreonfull
+FROM codedbeard/aspnetcore-servercore
 
 # set up environment
 ENV ASPNETCORE_URLS http://+:80
